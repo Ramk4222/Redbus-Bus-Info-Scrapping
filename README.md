@@ -26,14 +26,14 @@
 
   **STEP-1**
     ```bash 
-        git clone https://github.com/Ramk4222/Redbus-Bus-Info-Scrapping.git
-        cd Redbus-Bus-Info-Scrapping
+       git clone https://github.com/Ramk4222/Redbus-Bus-Info-Scrapping.git
+       cd Redbus-Bus-Info-Scrapping
      ``` 
      
  **STEP-2**
      ```bash
-     python -m venv upd
-     source upd/bin/activate
+        python -m venv upd
+        source upd/bin/activate
      ```
 
  **STEP-3**
