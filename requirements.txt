@@ -1,0 +1,5 @@
+Python
+selenium
+pymysql
+pandas
+streamlit
