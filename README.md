@@ -24,17 +24,17 @@
 ```
 # How To Run The Project
 
-  **STEP-1**
-    ```bash 
-       git clone https://github.com/Ramk4222/Redbus-Bus-Info-Scrapping.git
-       cd Redbus-Bus-Info-Scrapping
-    ``` 
+ **STEP-1**
+ ```bash 
+     git clone https://github.com/Ramk4222/Redbus-Bus-Info-Scrapping.git
+     cd Redbus-Bus-Info-Scrapping
+ ``` 
      
  **STEP-2**
-     ```bash
-        python -m venv upd
-        source upd/bin/activate
-     ```
+ ```bash
+     python -m venv upd
+     source upd/bin/activate
+  ```
 
  **STEP-3**
   ```bash
