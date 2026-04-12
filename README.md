@@ -103,7 +103,9 @@ project-root/
 
 Ramkumar Balusamy
 
+## 🎥 Demo Preview
 
+![Demo](demo.gif)
 
     
      
