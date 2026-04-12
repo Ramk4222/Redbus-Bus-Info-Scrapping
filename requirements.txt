@@ -1,5 +1,9 @@
 Python
 selenium
 pymysql
+KafkaProducer
 pandas
 streamlit
+sys
+subprocess
+SparkSession
